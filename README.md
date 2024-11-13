@@ -1,1 +1,1 @@
-https://note-taking-react.netlify.app/
+https://note-app-react-mini.vercel.app/
